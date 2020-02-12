@@ -1,2 +1,2 @@
 # greedy-robot
-Using recursion and DFS to map all possible routes between two (x, y) coordinates 
+Greedy Robot problem demonstrates the use of recursion and DFS to map all possible routes between two (x, y) coordinates In the game, the program prompts the user for an (x, y) pair indicating the position of the robot, as well as an (x, y) pair indicating the position of the treasure. The program then produces all of the combinations of paths it takes the robot to get to the treasure using a recursive depth first search. 
